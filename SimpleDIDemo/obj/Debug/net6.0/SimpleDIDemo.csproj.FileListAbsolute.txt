@@ -1,0 +1,15 @@
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/bin/Debug/net6.0/SimpleDIDemo
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/bin/Debug/net6.0/SimpleDIDemo.deps.json
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/bin/Debug/net6.0/SimpleDIDemo.runtimeconfig.json
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/bin/Debug/net6.0/SimpleDIDemo.dll
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/bin/Debug/net6.0/SimpleDIDemo.pdb
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.csproj.AssemblyReference.cache
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.AssemblyInfoInputs.cache
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.AssemblyInfo.cs
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.csproj.CoreCompileInputs.cache
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.dll
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/refint/SimpleDIDemo.dll
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.pdb
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/SimpleDIDemo.genruntimeconfig.cache
+/Users/sreeharichinta/Projects/SimpleDIDemo/SimpleDIDemo/obj/Debug/net6.0/ref/SimpleDIDemo.dll
